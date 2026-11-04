@@ -111,7 +111,7 @@ The agents do the daily work (research, outreach, product building, operations &
 - **Platform:** `web`
 - **Category:** `business`
 - **Quest:** `#17999`
-- **Live App URL:** `https://<your-username>.github.io/pollinations-towers-ai/`
+- **Live App URL:** `https://NoobJrCS.github.io/pollinations-towers-ai/`
 - **App URL in Submission:** Use your GitHub Pages live URL.
 - **Credit:** Official badge and Pollinations links included in header and footer.
 - **Submission Form:** [App Submission](https://github.com/pollinations/pollinations/issues/new?template=app-submission.yml)
